@@ -1,0 +1,42 @@
+{
+   "status": 200,
+   "message": "Everything should work fine",
+   "data": {
+      "image": "https://api.peely.de/cdn/current/brnews_en.gif",
+      "motds": [
+         {
+            "image": "https://cdn2.unrealengine.com/14br-fortnitemares-oro-motd-1920x1080-1920x1080-338775383.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/14br-fortnitemares-oro-motd-1024x512-1024x512-338775374.jpg",
+            "title": "Oro",
+            "body": "The fallen king is back for revenge, and this time he'll fit right in with the crowd.",
+            "id": "Oro links to Item Shop",
+            "spotlight": false
+         },
+         {
+            "image": "https://cdn2.unrealengine.com/14br-fortnitemares-motd-1920x1080-1920x1080-324815736.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/14br-fortnitemares-motd-1024x512-1024x512-324815733.jpg",
+            "title": "Fortnitemares",
+            "body": "Defend against the horde or you\u2019ll find yourself joining Midas\u2019 Shadow army as they swarm the Island and corrupt every poor soul they subdue.",
+            "id": "Fortnitemares Launch",
+            "spotlight": false
+         },
+         {
+            "image": "https://cdn2.unrealengine.com/14br-logan-motd-1920x1080-1920x1080-324815755.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/14br-logan-motd-1024x512-1024x512-324815734.jpg",
+            "title": "Wolverine - Logan",
+            "body": "Carrying the weight of many wars, Logan has seen it all. Complete the Wolverine Challenges and 60 Weekly Challenges to unlock the Logan Wolverine style. ",
+            "id": "Wolverine - Logan Style Unlock links to challenges",
+            "spotlight": false
+         }
+      ],
+      "messages": [
+         {
+            "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v42/BR04_MOTD_Shield-1024x512-75eacc957ecc88e76693143b6256ba06159efb76.jpg",
+            "messagetype": "normal",
+            "title": "Keep Your Account Secure",
+            "body": "Avoid scam sites offering free V-Bucks. Epic will never ask for your password. Enable Two-Factor Authentication to help stay secure!",
+            "spotlight": false
+         }
+      ]
+   }
+}

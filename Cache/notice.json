@@ -1,0 +1,21 @@
+{
+   "status": 200,
+   "message": "Everything should work fine",
+   "data": {
+      "messages": [
+         {
+            "title": "Emote Issue",
+            "body": "Due to an issue, we've temporarily disabled the following Emote: Suit Up"
+         },
+         {
+            "title": "Marvel Knockout",
+            "body": "A full trio party is required to compete in this Cup."
+         }
+      ],
+      "platform_messages": {
+         "EU": [],
+         "NA": []
+      },
+      "region_messages": {}
+   }
+}

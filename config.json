@@ -1,0 +1,11 @@
+{
+  "brNewsChannel":                  "123456789012345567",
+  "brShopChannel":                  "123456789012345567",
+  "brLeaksChannel":                 "123456789012345567",
+  "brProgressChannel":              "123456789012345567",
+  "stwNewsChannel":                 "123456789012345567",
+  "creativeNewsChannel":            "123456789012345567",
+  "creativeFeaturedIslandsChannel": "123456789012345567",
+
+  "discordToken":                   "Discord Login Token goes Here"
+}
